@@ -109,3 +109,5 @@ npm run build
 Кодовая база структурирована так, что новый разработчик быстро включится.
 
 UI-слой отделён от бизнес-логики, что упрощает поддержку.
+
+<img width="1465" height="590" alt="Screenshot 2026-02-03 131810" src="https://github.com/user-attachments/assets/f8644686-8664-4d94-9412-6b6ad0cbceeb" />
